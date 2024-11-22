@@ -1,4 +1,4 @@
-[Data_Mart_2__Students_Earning_At_Least_50__Merit_Scholarship.csv](https://github.com/user-attachments/files/17853599/Data_Mart_2__Students_Earning_At_Least_50__Merit_Scholarship.csv)[Data_Mart_1__Students_Graduating_in_2024_with_GPA_between_3_3_and_3_6.csv](https://github.com/user-attachments/files/17853596/Data_Mart_1__Students_Graduating_in_2024_with_GPA_between_3_3_and_3_6.csv)![output (1)](https://github.com/user-attachments/assets/c7935576-c86f-4c1c-ab68-002962ab7b65)# USC Student Personality Insights and Data Exploration
+# USC Student Personality Insights and Data Exploration
 
 ## Description
 This project analyzes a student survey dataset from USC, exploring relationships between personality types, academic performance, social experiences, and other demographic variables. The dataset is processed, cleaned, and visualized to uncover meaningful insights and correlations.
